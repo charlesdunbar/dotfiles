@@ -2,5 +2,6 @@
 	# Edit email as needed
 	#email =
 	name = Charles Dunbar
+	email = ccdunbar@gmail.com
 [commit]
 	verbose = true
