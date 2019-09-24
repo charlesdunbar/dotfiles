@@ -1,0 +1,6 @@
+[user]
+	# Edit email as needed
+	#email =
+	name = Charles Dunbar
+[commit]
+	verbose = true
